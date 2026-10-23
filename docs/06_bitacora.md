@@ -35,3 +35,10 @@
 - ID de campaña indicado en el enlace aportado: 120245432791240564. El enlace no se ha usado para consultar la cuenta; su identidad procede de la confirmación del usuario.
 - Publicado 08_conjuntos_formularios.md con nueve filas, métricas, conciliaciones y hallazgos preliminares.
 - La siguiente entrega anunciada corresponde a interacción a WhatsApp; aún pendiente.
+
+## 2026-10-23 — Conjuntos de interacción a WhatsApp
+- Recibidas seis capturas en tres pares de vistas horizontales, agosto, septiembre y octubre 1–23.
+- Campaña confirmada: INT_USA_ES_VID_WP_MAYO2026; ID del enlace del usuario 120245437000040564.
+- Documentados USA abierto, USA14 y California abierto en 09_conjuntos_whatsapp.md.
+- Nueva revisión de octubre: 234 conversaciones, 568 clics, inversión 1.395,52. No sumar a revisiones previas del mismo periodo.
+- Se identifica mejora de USA14 y caída del cociente conversaciones/clics en USA abierto, oculta por la estabilidad agregada. No se concluye rentabilidad ni causalidad.
