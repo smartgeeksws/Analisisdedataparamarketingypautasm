@@ -27,3 +27,5 @@ No incorporar información personal de clientes ni expedientes legales individua
 - [Conjuntos de la campaña de formularios: agosto, septiembre y octubre](docs/08_conjuntos_formularios.md)
 
 - [Conjuntos de WhatsApp y comparación con formularios](docs/09_conjuntos_whatsapp.md)
+
+- [Síntesis y criterios preliminares para nuevas campañas](docs/10_sintesis_y_criterios_nuevas_campanas.md)
