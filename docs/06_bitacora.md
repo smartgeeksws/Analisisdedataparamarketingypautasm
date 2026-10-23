@@ -49,3 +49,9 @@
 - Actualizado estado de entregas: conjuntos ya recibidos de ambas campañas; pendientes anuncios, configuración y resultados comerciales.
 - Se mantienen límites: cociente agregado no equivale a abandono individual, formularios no son mensajes y no se identifica un ganador comercial sin BI.
 - La síntesis y criterios preliminares para nuevas campañas están documentados en 10_sintesis_y_criterios_nuevas_campanas.md.
+
+## 2026-10-23 — Cierre de sesión
+- El usuario solicita terminar por hoy y continuar mañana.
+- Publicado 11_cierre_sesion_2026-10-23.md con estado, hallazgos, límites, conciliaciones y siguiente entrega.
+- Actualizada la lista de pendientes y enlazado el cierre desde README.
+- Continuación sujeta al regreso del usuario; no se programó ejecución automática.
