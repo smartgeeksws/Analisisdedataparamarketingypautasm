@@ -33,3 +33,6 @@ El usuario pregunta si se requiere nivel de conjunto: sí. Solicitar por separad
 
 ## Actualización de entregas — conjuntos
 Recibidos tres conjuntos de clientes potenciales CP_USA_ES_VID_FORM_MAYO2026 para agosto, septiembre y octubre 1–23, con columnas de rendimiento y clics. Falta campaña de interacción a WhatsApp, que el usuario anuncia como siguiente entrega. Siguen pendientes configuración y anuncios. Verificar por exportación la discrepancia de octubre en USA14: CPL mostrado 8,25 frente a inversión/resultados = 8,28.
+
+## Actualización: conjuntos de WhatsApp recibidos
+Completado este bloque para agosto, septiembre y octubre 1–23 de INT_USA_ES_VID_WP_MAYO2026. Ya no se requieren nuevamente estas capturas. Siguen pendientes anuncios, configuración y recorrido inicial de WhatsApp, creativos y desempeño orgánico, BI comercial y mayo/junio. California figura desactivado en la vista actual: falta historial de cambios para fechar el cambio, si resulta pertinente.
