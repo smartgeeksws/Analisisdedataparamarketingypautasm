@@ -1,38 +1,80 @@
-# Información pendiente
+# Información pendiente y orden de recopilación
+Actualizado: 23 de octubre de 2026. Esta lista consolida el estado actual; las entregas y revisiones previas permanecen en la bitácora y Git.
 
-## Entregas anunciadas por el usuario
-1. Resultados de campañas desde mayo de 2026: recibidas capturas de julio, agosto, septiembre y octubre 1–23; faltan mayo y junio.
-2. Creativos disponibles y comportamiento orgánico de los últimos dos meses: pendiente.
-3. Gráficas del BI por mes desde mayo: comerciales, ventas, cierres y canales de ingreso orgánico/pauta: pendiente.
+## Ya recibido — no repetir
+- Contexto comercial: representación en corte para procesos de asilo, ticket e inicial habituales.
+- Campañas: julio, agosto, septiembre y octubre 1–23.
+- Conjuntos de clientes potenciales y WhatsApp: agosto, septiembre y octubre 1–23, con rendimiento y clics.
+- ROAS 9,7 de iniciales en agosto y ROAS cercano o superior a 50 de valor total: declaraciones del usuario, pendientes de conciliación.
 
-## Validaciones prioritarias al recibir BI
-- Fórmula exacta del ROAS 9,7 de agosto y del ROAS de valor contratado cercano o superior a 50.
-- Qué ventas e iniciales se atribuyen a publicidad y cómo se identifican las fuentes.
-- Prospectos únicos, contactados, calificados, citas, asistencias, contratos e iniciales por canal y comercial.
-- Fecha de captación, de cierre y de cobro; tiempo hasta el cierre.
-- Inicial efectivamente cobrada, valor contratado y devoluciones/cancelaciones.
-- Criterios de calificación comercial y de viabilidad legal; responsable de cada evaluación.
+## Prioridad 1 — anuncios y contenido pautado
+### Exportación de rendimiento
+Preferir CSV/XLSX de rendimiento, no plantilla de importación/edición de anuncios. Periodo 1 de mayo–23 de octubre de 2026, nivel anuncio, por mes para una primera entrega; por día como complemento para ubicar cambios. Incluir anuncios pausados que tuvieron gasto; no limitar al filtro de activos actuales.
 
-## Detalle de pauta para una fase posterior
-- Exportación por campaña, conjunto, anuncio y fecha; identificadores que permitan cruces.
-- Objetivos, eventos de optimización, atribución, formularios y preguntas utilizadas.
-- Segmentación, ubicaciones, cambios de presupuesto y fechas de renovación de creativos.
-- Confirmar moneda, rango completo de julio y cobertura de toda la cuenta.
+Columnas:
+- Nombre e ID de campaña, conjunto y anuncio; fechas del reporte, moneda y zona horaria de cuenta.
+- Inversión, resultados y tipo de resultado, costo por resultado, impresiones, alcance, frecuencia y CPM.
+- Clics en enlace, CPC enlace, CTR enlace; clics únicos enlace si están disponibles.
+- Leads de formulario y conversaciones iniciadas con su etiqueta completa, separados según campaña.
+- Video: reproducciones de 3 segundos, tiempo medio de reproducción, reproducciones al 25/50/75/95/100 % y ThruPlays si están disponibles. Adjuntar duración del video.
+- Guardar configuración de atribución junto al reporte.
 
-## Negocio y operación
-- Confirmar nombre oficial, periodicidad de cuotas de 500 USD y condiciones de pago.
-- Presupuesto, plazo de la meta y capacidad de atención comercial/legal.
-- Tiempo de primera respuesta, seguimiento y motivos de pérdida.
-- Costos de prestación, comisiones y recaudo posterior para evaluar rentabilidad.
+No sumar alcance ni frecuencia de periodos/anuncios como si fueran usuarios únicos; recalcular ratios desde contadores. Si una métrica no está disponible, informar sin sustituir por otra.
 
-Recibir por bloques; no es necesario responder todos estos puntos a la vez.
+### Piezas
+Videos/imágenes, texto principal, título y CTA de cada anuncio, nombre/ID o enlace que permita cruzarlo con resultados. Fechas de lanzamiento, reutilización y modificaciones. Vista previa completa móvil. El rendimiento orgánico no sustituye el rendimiento pagado.
 
+## Prioridad 2 — configuración y recorrido tras clic
+Capturas de configuración de las dos campañas y sus tres conjuntos:
+- Objetivo, ubicación de conversión, objetivo de rendimiento/evento optimizado.
+- Presupuesto a nivel campaña o conjunto, estrategia de puja y programación.
+- Audiencia: geografía efectiva, edades, idioma, intereses, públicos personalizados/similares, exclusiones y expansión Advantage+ según se use.
+- Ubicaciones automáticas/manuales y configuración de atribución.
+- Formulario completo: introducción, preguntas, campos, revisión, final, tipo e ID/versión; si existen métricas de aperturas/inicios, incluirlas.
+- WhatsApp: número/destino (puede ocultarse), mensaje prellenado, bienvenida, opciones/bot, primer paso del usuario y derivación a asesor.
+No inferir segmentaciones desde el nombre del conjunto ni interpretar clics menos resultados como abandono observado.
 
-## Siguiente bloque: conjuntos y anuncios
-El usuario pregunta si se requiere nivel de conjunto: sí. Solicitar por separado WhatsApp y formularios, agosto 1–31 y octubre 1–23; si es posible añadir agosto 1–23. Incluir inversión, resultados, clics enlace, CPC, CTR, impresiones, frecuencia, atribución y configuración del objetivo de rendimiento. Posteriormente revisar anuncios, formulario completo y mensaje de inicio de WhatsApp. Detalle en [07_clics_y_resultados.md](07_clics_y_resultados.md).
+## Prioridad 3 — distribución y cambios
+Reportes separados, con mismos periodos y métricas base:
+1. Plataforma y ubicación (Facebook/Instagram, Feed/Reels/Stories, etc.).
+2. Región/estado de entrega, si está disponible.
+3. Dispositivo y edad/género, si están disponibles y aportan suficiente volumen.
+No combinar todos los desgloses a la vez; algunas combinaciones/métricas pueden no estar disponibles. Conservar reporte base sin desglose.
+Historial de cambios: presupuestos, pausas/reactivaciones, anuncios nuevos, audiencias, formularios y optimización. Fechar desactivación de California WhatsApp si es pertinente.
 
-## Actualización de entregas — conjuntos
-Recibidos tres conjuntos de clientes potenciales CP_USA_ES_VID_FORM_MAYO2026 para agosto, septiembre y octubre 1–23, con columnas de rendimiento y clics. Falta campaña de interacción a WhatsApp, que el usuario anuncia como siguiente entrega. Siguen pendientes configuración y anuncios. Verificar por exportación la discrepancia de octubre en USA14: CPL mostrado 8,25 frente a inversión/resultados = 8,28.
+## Prioridad 4 — Business Suite y orgánico
+Últimos dos meses:
+- Relación de publicaciones/reels con enlace o ID, fecha, tema, duración y formato.
+- Alcance/vistas, seguidores/no seguidores cuando esté disponible, tiempo de reproducción/retención, interacciones, compartidos, guardados, visitas al perfil y mensajes/contactos atribuibles si se muestran.
+- Identificar piezas promocionadas o con inversión para no etiquetar todo su alcance como orgánico.
+- Creativos listos para pautar, objetivos y restricciones de producción.
+- Comentarios/preguntas y objeciones recurrentes, resumidos sin datos de clientes.
 
-## Actualización: conjuntos de WhatsApp recibidos
-Completado este bloque para agosto, septiembre y octubre 1–23 de INT_USA_ES_VID_WP_MAYO2026. Ya no se requieren nuevamente estas capturas. Siguen pendientes anuncios, configuración y recorrido inicial de WhatsApp, creativos y desempeño orgánico, BI comercial y mayo/junio. California figura desactivado en la vista actual: falta historial de cambios para fechar el cambio, si resulta pertinente.
+## Prioridad 5 — medición técnica y estado de cuenta
+- Cómo se identifica en Clientify campaña/conjunto/anuncio, UTM/ID y fuente; cómo se deduplica.
+- Si existe CAPI/CRM y qué eventos envía; si hay sitio web, estado del píxel/dataset, eventos, diagnósticos y deduplicación navegador/servidor cuando aplique.
+- Si el recorrido es solo formulario instantáneo/WhatsApp, no exigir un píxel web como condición de medición.
+- Errores de entrega, anuncios rechazados o restricciones observadas, si existen.
+- Confirmar moneda, zona horaria y atribución; no pedir credenciales ni expedientes.
+- Conciliar discrepancia octubre USA14 formularios: CPL mostrado 8,25, frente a inversión/resultados 8,28.
+
+## Datos externos a Meta indispensables para ROAS
+Gráficas BI anunciadas por el usuario y exportaciones agregadas/anónimas si existen:
+- Contactos únicos por fuente, campaña y fecha de captación; contactados, calificados, citas, asistencias, contratos.
+- Fecha de cierre/cobro, inicial efectivamente cobrada, valor contratado, cancelaciones y devoluciones.
+- Comercial asignado, primera respuesta, seguimiento y motivos de pérdida.
+- Fórmulas exactas y atribución de ROAS de iniciales y valor contratado; separar orgánico/referidos.
+- Criterios de calificación y responsable de evaluación legal.
+- Costos de servicio, comisiones y recaudo posterior para evaluar rentabilidad.
+No compartir identificadores personales ni información sensible del caso en el repositorio público.
+
+## Decisiones y validaciones de negocio
+Plazo y presupuesto de la meta, indicador principal/base elegida, capacidad comercial/legal, periodicidad de cuotas de USD 500 y nombre oficial. La aspiración de triplicar no constituye una proyección validada.
+
+## Próxima entrega concreta
+Empezar por anuncios de agosto, septiembre y octubre para ambas campañas con las columnas existentes, piezas asociadas y vistas del formulario/mensaje inicial. Una exportación de mayo–octubre cubre además el histórico faltante de mayo/junio. No es necesario enviar todos los bloques simultáneamente.
+
+## Referencias oficiales de funcionalidades consultadas
+- Exportación de rendimiento: https://www.facebook.com/business/help/393890194130036
+- Exportar/compartir reportes: https://www.facebook.com/business/help/205067636197240
+- Métricas de video: https://www.facebook.com/business/help/1792720544284355
