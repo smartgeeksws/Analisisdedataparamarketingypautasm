@@ -24,3 +24,11 @@ La diferencia entre costo de captación y ROAS podría relacionarse con calidad 
 
 ## Límites
 Las capturas no contienen ventas, recaudo ni calidad. No permiten calcular ni validar ROAS o rentabilidad, identificar causalidad ni decidir qué campaña escalar.
+
+
+## Ampliación: clics y resultados
+Ver [análisis por campaña](07_clics_y_resultados.md). La nueva captura de octubre actualiza costos de conversación a 5,96 y formulario a 8,69. Los valores anteriores reflejan una captura previa del mismo día.
+- WhatsApp agosto–octubre: resultados/clics 42,46 % a 41,27 %, relativamente estable.
+- Formularios agosto–octubre: resultados/clics 16,51 % a 18,65 %, mejora a pesar del aumento del costo por lead.
+- Por tanto, no se observa una caída generalizada de la relación entre clics y resultados; formularios sufre principalmente encarecimiento del tráfico en esta comparación agregada.
+- No interpretar clics menos resultados como personas únicas perdidas ni como abandono medido. Faltan datos de aperturas, envíos, configuración y atribución.
