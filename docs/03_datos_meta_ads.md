@@ -39,3 +39,13 @@ Resultados mostrados como clientes potenciales de formulario; confirmar etiqueta
 | Octubre 1–23 | 3.291,08 |
 
 Las capturas de julio, agosto y octubre no muestran el listado completo; no se asegura que estas sumas cubran toda la cuenta. En septiembre, el total visible coincide con 4.461,52 y las otras campañas visibles registran gasto cero. No sumar alcances de campañas como personas únicas.
+
+
+## Nueva revisión de octubre — captura image(20261023-212713).png
+Mismo rango 1–23 de octubre; captura posterior del día, sustituye para análisis actualizado sin borrar el histórico anterior.
+| Campaña | Resultados | Costo/resultado | Inversión | Impresiones | Alcance | Frecuencia | CPM | Clics enlace |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| INT_USA_ES_VID_WP_MAYO2026 | 234 | 5,96 | 1.393,96 | 75.415 | 44.530 | 1,69 | 18,48 | 567 |
+| CP_USA_ES_VID_FORM_MAYO2026 | 219 | 8,69 | 1.902,65 | 59.763 | 23.870 | 2,50 | 31,84 | 1.174 |
+
+Total visible: inversión 3.296,61; impresiones 135.178; alcance deduplicado de cuenta 64.587; clics 1.741; frecuencia 2,09; CPM 24,39. Otras campañas visibles: gasto cero. No sumar esta revisión a la anterior. Las nuevas capturas de agosto y septiembre confirman los valores ya transcritos y sus totales visibles (4.590,74 y 4.461,52).
