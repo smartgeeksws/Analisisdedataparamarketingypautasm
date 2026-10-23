@@ -29,3 +29,6 @@ No incorporar información personal de clientes ni expedientes legales individua
 - [Conjuntos de WhatsApp y comparación con formularios](docs/09_conjuntos_whatsapp.md)
 
 - [Síntesis y criterios preliminares para nuevas campañas](docs/10_sintesis_y_criterios_nuevas_campanas.md)
+
+## Estado al cierre del 23 de octubre de 2026
+Trabajo pausado a solicitud del usuario. Para continuar, consultar [el cierre y punto de continuación](docs/11_cierre_sesion_2026-10-23.md). Próximo bloque: anuncios y recorridos de formulario/WhatsApp; pendientes creativos y BI comercial.
