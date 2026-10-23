@@ -23,3 +23,5 @@ No incorporar información personal de clientes ni expedientes legales individua
 Última actualización: 23 de octubre de 2026 (America/Bogota).
 
 - [Relación entre clics y resultados por campaña](docs/07_clics_y_resultados.md)
+
+- [Conjuntos de la campaña de formularios: agosto, septiembre y octubre](docs/08_conjuntos_formularios.md)
