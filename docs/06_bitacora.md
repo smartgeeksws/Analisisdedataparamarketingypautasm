@@ -28,3 +28,10 @@
 - Se añadió análisis de resultados/clics y CPC: formularios mejora su relación agregada; WhatsApp se mantiene similar entre agosto y octubre.
 - Se solicitó detalle por conjunto y posteriormente anuncio, junto con configuración de destinos.
 - Se verificó la conexión GitHub y se publicaron los documentos iniciales; esta ampliación se incorpora al mismo repositorio.
+
+## 2026-10-23 — Conjuntos de clientes potenciales
+- Recibidas seis capturas, dos vistas horizontales por periodo: agosto, septiembre y octubre parcial.
+- El usuario corrigió la denominación del nivel: son conjuntos de anuncios, y confirmó campaña padre CP_USA_ES_VID_FORM_MAYO2026.
+- ID de campaña indicado en el enlace aportado: 120245432791240564. El enlace no se ha usado para consultar la cuenta; su identidad procede de la confirmación del usuario.
+- Publicado 08_conjuntos_formularios.md con nueve filas, métricas, conciliaciones y hallazgos preliminares.
+- La siguiente entrega anunciada corresponde a interacción a WhatsApp; aún pendiente.
