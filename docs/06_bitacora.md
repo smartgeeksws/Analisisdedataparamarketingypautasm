@@ -42,3 +42,10 @@
 - Documentados USA abierto, USA14 y California abierto en 09_conjuntos_whatsapp.md.
 - Nueva revisión de octubre: 234 conversaciones, 568 clics, inversión 1.395,52. No sumar a revisiones previas del mismo periodo.
 - Se identifica mejora de USA14 y caída del cociente conversaciones/clics en USA abierto, oculta por la estabilidad agregada. No se concluye rentabilidad ni causalidad.
+
+## 2026-10-23 — Consolidación solicitada por el usuario
+- Actualizado 07_clics_y_resultados.md con la comparación explícita de agosto, septiembre y octubre para ambos canales y sus hallazgos por conjunto.
+- Sincronizados valores de octubre con las últimas capturas, preservando cortes anteriores en una tabla de revisiones.
+- Actualizado estado de entregas: conjuntos ya recibidos de ambas campañas; pendientes anuncios, configuración y resultados comerciales.
+- Se mantienen límites: cociente agregado no equivale a abandono individual, formularios no son mensajes y no se identifica un ganador comercial sin BI.
+- La síntesis y criterios preliminares para nuevas campañas están documentados en 10_sintesis_y_criterios_nuevas_campanas.md.
