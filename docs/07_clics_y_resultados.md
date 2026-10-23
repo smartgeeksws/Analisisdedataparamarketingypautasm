@@ -18,7 +18,7 @@ Moneda por confirmar. Resultados: conversaciones en WhatsApp y clientes potencia
 - Existe una brecha entre clics y resultados en ambos canales, pero no es correcto cuantificarla como personas perdidas: son contadores agregados, con posibles repeticiones y reglas de atribución distintas.
 - WhatsApp: aproximadamente 42 resultados por cada 100 clics en agosto y 41 en octubre; baja de 1,19 puntos porcentuales. No evidencia un deterioro grande de esta relación entre esos dos periodos. Septiembre presenta la menor relación (36,18 %).
 - Formularios: aproximadamente 17 resultados por cada 100 clics en agosto y 19 en octubre. La relación mejora 2,14 puntos porcentuales (12,98 % relativo); por tanto, el aumento del costo por lead no se explica por una caída de este cociente agregado.
-- Formularios: el CPC calculado aumenta aproximadamente 51,86 % entre agosto y octubre y el costo por resultado calculado aumenta aproximadamente 34,43 %. La mejora de resultados/clics compensa parcialmente el encarecimiento del clic.
+- Formularios: el CPC calculado aumenta aproximadamente 51,9 % entre agosto y octubre y el costo por resultado calculado aumenta aproximadamente 34,43 %. La mejora de resultados/clics compensa parcialmente el encarecimiento del clic.
 - No se puede llamar a estas relaciones tasas de abandono observadas ni compararlas como si WhatsApp y formulario fueran el mismo proceso.
 - Tampoco se puede afirmar que el cociente sea bajo respecto de un estándar sin una referencia comparable y validada. El objetivo final sigue siendo captar clientes calificados y generar recaudo.
 - Reducir preguntas podría aumentar formularios y reducir calidad: no se recomienda hacerlo aún sin verificar el efecto comercial.
