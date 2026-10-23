@@ -1,6 +1,6 @@
 # Conjuntos de anuncios — formularios, agosto a octubre de 2026
 
-Fuente: seis capturas aportadas el 23 de octubre de 2026. El usuario las identifica como nivel de campañas; la interfaz muestra **Conjuntos de anuncios**. Corresponden a tres conjuntos de la campaña de formularios, inferida por nombres, tipo de resultados y conciliación de agosto/septiembre con CP_USA_ES_VID_FORM_MAYO2026; confirmar campaña padre e identificadores mediante exportación. No se recibió en este bloque la campaña WhatsApp.
+Fuente: seis capturas aportadas el 23 de octubre de 2026. El usuario las identifica como nivel de campañas; la interfaz muestra **Conjuntos de anuncios**. El usuario confirmó que corresponden a tres conjuntos de la campaña de clientes potenciales CP_USA_ES_VID_FORM_MAYO2026. ID de campaña incluido en su enlace: 120245432791240564; procedencia: enlace aportado, sin consulta de la cuenta. No se recibió en este bloque la campaña WhatsApp.
 
 ## Archivos y periodos
 - image(20261023-215432).png e image(20261023-215517).png: octubre 1–23.
