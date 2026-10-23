@@ -26,3 +26,7 @@
 - Costos de prestación, comisiones y recaudo posterior para evaluar rentabilidad.
 
 Recibir por bloques; no es necesario responder todos estos puntos a la vez.
+
+
+## Siguiente bloque: conjuntos y anuncios
+El usuario pregunta si se requiere nivel de conjunto: sí. Solicitar por separado WhatsApp y formularios, agosto 1–31 y octubre 1–23; si es posible añadir agosto 1–23. Incluir inversión, resultados, clics enlace, CPC, CTR, impresiones, frecuencia, atribución y configuración del objetivo de rendimiento. Posteriormente revisar anuncios, formulario completo y mensaje de inicio de WhatsApp. Detalle en [07_clics_y_resultados.md](07_clics_y_resultados.md).
