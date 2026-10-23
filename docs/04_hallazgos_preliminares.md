@@ -32,3 +32,6 @@ Ver [análisis por campaña](07_clics_y_resultados.md). La nueva captura de octu
 - Formularios agosto–octubre: resultados/clics 16,51 % a 18,65 %, mejora a pesar del aumento del costo por lead.
 - Por tanto, no se observa una caída generalizada de la relación entre clics y resultados; formularios sufre principalmente encarecimiento del tráfico en esta comparación agregada.
 - No interpretar clics menos resultados como personas únicas perdidas ni como abandono medido. Faltan datos de aperturas, envíos, configuración y atribución.
+
+## Conjuntos de formularios, campaña confirmada por el usuario
+Ver [08_conjuntos_formularios.md](08_conjuntos_formularios.md). El usuario confirmó que las seis capturas corresponden a conjuntos de CP_USA_ES_VID_FORM_MAYO2026. California combina mayor CTR y mayor CPL; en octubre tiene 14,47 formularios/100 clics frente a 21,78 de USA Advantage y 19,13 de USA14. Esto localiza una diferencia a investigar, no demuestra su causa. En USA Advantage el CPC aumenta y el CTR cae respecto de agosto, mientras mejora formularios/clics. Pendiente calidad y cierre por conjunto para evaluar rentabilidad.
