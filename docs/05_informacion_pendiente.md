@@ -30,3 +30,6 @@ Recibir por bloques; no es necesario responder todos estos puntos a la vez.
 
 ## Siguiente bloque: conjuntos y anuncios
 El usuario pregunta si se requiere nivel de conjunto: sí. Solicitar por separado WhatsApp y formularios, agosto 1–31 y octubre 1–23; si es posible añadir agosto 1–23. Incluir inversión, resultados, clics enlace, CPC, CTR, impresiones, frecuencia, atribución y configuración del objetivo de rendimiento. Posteriormente revisar anuncios, formulario completo y mensaje de inicio de WhatsApp. Detalle en [07_clics_y_resultados.md](07_clics_y_resultados.md).
+
+## Actualización de entregas — conjuntos
+Recibidos tres conjuntos de clientes potenciales CP_USA_ES_VID_FORM_MAYO2026 para agosto, septiembre y octubre 1–23, con columnas de rendimiento y clics. Falta campaña de interacción a WhatsApp, que el usuario anuncia como siguiente entrega. Siguen pendientes configuración y anuncios. Verificar por exportación la discrepancia de octubre en USA14: CPL mostrado 8,25 frente a inversión/resultados = 8,28.
