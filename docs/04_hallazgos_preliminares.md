@@ -35,3 +35,6 @@ Ver [análisis por campaña](07_clics_y_resultados.md). La nueva captura de octu
 
 ## Conjuntos de formularios, campaña confirmada por el usuario
 Ver [08_conjuntos_formularios.md](08_conjuntos_formularios.md). El usuario confirmó que las seis capturas corresponden a conjuntos de CP_USA_ES_VID_FORM_MAYO2026. California combina mayor CTR y mayor CPL; en octubre tiene 14,47 formularios/100 clics frente a 21,78 de USA Advantage y 19,13 de USA14. Esto localiza una diferencia a investigar, no demuestra su causa. En USA Advantage el CPC aumenta y el CTR cae respecto de agosto, mientras mejora formularios/clics. Pendiente calidad y cierre por conjunto para evaluar rentabilidad.
+
+## Conjuntos de WhatsApp recibidos
+Ver [09_conjuntos_whatsapp.md](09_conjuntos_whatsapp.md). Agosto–octubre: USA abierto baja conversaciones/clics de 41,86 % a 33,79 %, aunque mantiene costo/conversación similar por menor CPC. USA14 mejora conversaciones/clics de 37,46 % a 46,50 % y reduce costo/conversación de 7,44 a 5,96. California abierto pasa de 5,21 a 6,57 por conversación. La relación agregada estable oculta variaciones opuestas. Pendientes calidad y cierres antes de decidir presupuesto.
